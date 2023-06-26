@@ -1,0 +1,6 @@
+time: 0.48, nbytes: 27637, URL: http://avito.ru
+time: 0.48, nbytes: 9145, URL: http://auto.ru
+time: 0.59, nbytes: 12814, URL: http://ya.ru
+time: 1.05, nbytes: 624871, URL: http://youtube.com
+time: 1.08, nbytes: 113172, URL: http://vk.ru
+Total: 1.1
